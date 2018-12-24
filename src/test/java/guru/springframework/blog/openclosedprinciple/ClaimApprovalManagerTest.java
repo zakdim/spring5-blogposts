@@ -1,4 +1,4 @@
-package guru.springframework.openclosedprinciple;
+package guru.springframework.blog.openclosedprinciple;
 
 import org.junit.Test;
 

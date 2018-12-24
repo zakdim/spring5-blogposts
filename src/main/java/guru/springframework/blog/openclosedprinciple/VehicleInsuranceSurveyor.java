@@ -1,4 +1,4 @@
-package guru.springframework.openclosedprinciple;
+package guru.springframework.blog.openclosedprinciple;
 
 /**
  * Created by dmitri on 2018-12-24
